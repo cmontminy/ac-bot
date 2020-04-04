@@ -16,3 +16,4 @@ can store information for:
 - what flowers you have
 
 maybe fetch information for furniture, items, and other things to give cost
+a
