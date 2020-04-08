@@ -18,3 +18,5 @@ can store information for:
 maybe fetch information for furniture, items, and other things to give cost
 
 keep track of what recipes you've collected for different events, give percentages to completion
+
+- have roles for specific pings or something
