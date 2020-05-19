@@ -23,3 +23,4 @@ keep track of what recipes you've collected for different events, give percentag
 - maybe turnip stuff
 - links to guides and other resources
 - ways to visit islands based on vistors / events / turnips
+- have trader profiles
